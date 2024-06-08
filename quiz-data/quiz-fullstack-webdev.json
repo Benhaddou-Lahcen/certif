@@ -1,0 +1,338 @@
+{
+    "quiz-fullstack-webdev": {
+        "title": "Full Stack Web Development",
+        "duration": "30",
+        "questions": [
+            {
+                "type": "mcq",
+                "question": "Which languages are commonly used for front-end web development?",
+                "options": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Python"
+                ],
+                "answers": ["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which of the following are JavaScript frameworks?",
+                "options": [
+                    "React",
+                    "Angular",
+                    "Vue.js",
+                    "Laravel"
+                ],
+                "answers": ["React", "Angular", "Vue.js"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which HTML tags are used for creating tables?",
+                "options": [
+                    "&lt;table&gt;",
+                    "&lt;tr&gt;",
+                    "&lt;td&gt;",
+                    "&lt;div&gt;"
+                ],
+                "answers": ["<table>", "<tr>", "<td>"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which of the following are CSS frameworks?",
+                "options": [
+                    "Bootstrap",
+                    "Foundation",
+                    "Tailwind CSS",
+                    "Express.js"
+                ],
+                "answers": ["Bootstrap", "Foundation", "Tailwind CSS"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which of the following are NoSQL databases?",
+                "options": [
+                    "MongoDB",
+                    "Redis",
+                    "MySQL",
+                    "Cassandra"
+                ],
+                "answers": ["MongoDB", "Redis", "Cassandra"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which methods are used to create objects in JavaScript?",
+                "options": [
+                    "Object literals",
+                    "Constructor functions",
+                    "Classes",
+                    "Modules"
+                ],
+                "answers": ["Object literals", "Constructor functions", "Classes"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which of the following are popular backend frameworks?",
+                "options": [
+                    "Django",
+                    "Flask",
+                    "Spring",
+                    "React"
+                ],
+                "answers": ["Django", "Flask", "Spring"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which tools are commonly used for version control in web development?",
+                "options": [
+                    "Git",
+                    "SVN",
+                    "Mercurial",
+                    "Bitbucket"
+                ],
+                "answers": ["Git", "SVN", "Mercurial"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which languages can be used for server-side scripting?",
+                "options": [
+                    "PHP",
+                    "Node.js",
+                    "Ruby",
+                    "HTML"
+                ],
+                "answers": ["PHP", "Node.js", "Ruby"]
+            },
+            {
+                "type": "mcq",
+                "question": "Which protocols are used for secure communication over a computer network?",
+                "options": [
+                    "HTTPS",
+                    "SSL",
+                    "TLS",
+                    "HTTP"
+                ],
+                "answers": ["HTTPS", "SSL", "TLS"]
+            },
+            {
+                "type": "scq",
+                "question": "Which HTML attribute is used to define inline styles?",
+                "options": [
+                    "style",
+                    "class",
+                    "id",
+                    "styles"
+                ],
+                "answer": "style"
+            },
+            {
+                "type": "scq",
+                "question": "How can you add a comment in JavaScript?",
+                "options": [
+                    "//This is a comment",
+                    "'This is a comment",
+                    "&lt;!--This is a comment--&gt;",
+                    "#This is a comment"
+                ],
+                "answer": "//This is a comment"
+            },
+            {
+                "type": "scq",
+                "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+                "options": [
+                    "alt",
+                    "title",
+                    "src",
+                    "longdesc"
+                ],
+                "answer": "alt"
+            },
+            {
+                "type": "mcq",
+                "question": "Which HTTP method is idempotent?",
+                "options": [
+                    "GET",
+                    "POST",
+                    "PUT",
+                    "DELETE"
+                ],
+                "answers": ["GET", "PUT"]
+            },
+            {
+                "type": "scq",
+                "question": "Which CSS property controls the text size?",
+                "options": [
+                    "font-size",
+                    "text-size",
+                    "font-style",
+                    "text-style"
+                ],
+                "answer": "font-size"
+            },
+            {
+                "type": "scq",
+                "question": "What is the correct HTML element for inserting a line break?",
+                "options": [
+                    "&lt;br&gt;",
+                    "&lt;break&gt;",
+                    "&lt;lb&gt;",
+                    "&lt;linebreak&gt;"
+                ],
+                "answer": "<br>"
+            },
+            {
+                "type": "scq",
+                "question": "How do you create a function in JavaScript?",
+                "options": [
+                    "function myFunction()",
+                    "function:myFunction()",
+                    "function = myFunction()",
+                    "def myFunction()"
+                ],
+                "answer": "function myFunction()"
+            },
+            {
+                "type": "scq",
+                "question": "How do you call a function named 'myFunction'?",
+                "options": [
+                    "call myFunction()",
+                    "myFunction()",
+                    "call function myFunction()",
+                    "execute myFunction()"
+                ],
+                "answer": "myFunction()"
+            },
+            {
+                "type": "scq",
+                "question": "How do you write a conditional statement for executing some statements only if 'i' is equal to 5?",
+                "options": [
+                    "if i = 5 then",
+                    "if i == 5 then",
+                    "if (i == 5)",
+                    "if i = 5"
+                ],
+                "answer": "if (i == 5)"
+            },
+            {
+                "type": "scq",
+                "question": "How to write an IF statement in JavaScript?",
+                "options": [
+                    "if i == 5 then",
+                    "if i = 5 then",
+                    "if (i == 5)",
+                    "if (i = 5)"
+                ],
+                "answer": "if (i == 5)"
+            },
+            {
+                "type": "scq",
+                "question": "How does a FOR loop start?",
+                "options": [
+                    "for (i = 0; i &lt;= 5; i++)",
+                    "for i = 1 to 5",
+                    "for (i = 0; i &lt;= 5)",
+                    "for (i &lt;= 5; i++)"
+                ],
+                "answer": "for (i = 0; i <= 5; i++)"
+            },
+            {
+                "type": "scq",
+                "question": "How can you add a comment in a CSS file?",
+                "options": [
+                    "/* this is a comment */",
+                    "// this is a comment",
+                    "' this is a comment",
+                    "&lt;!-- this is a comment --&gt;"
+                ],
+                "answer": "/* this is a comment */"
+            },
+            {
+                "type": "scq",
+                "question": "Which HTML element is used to specify a footer for a document or section?",
+                "options": [
+                    "&lt;footer&gt;",
+                    "&lt;section&gt;",
+                    "&lt;bottom&gt;",
+                    "&lt;div&gt;"
+                ],
+                "answer": "<footer>"
+            },
+            {
+                "type": "scq",
+                "question": "In CSS, how do you select an element with id 'demo'?",
+                "options": [
+                    "#demo",
+                    ".demo",
+                    "demo",
+                    "*demo"
+                ],
+                "answer": "#demo"
+            },
+            {
+                "type": "scq",
+                "question": "Which is the correct CSS syntax?",
+                "options": [
+                    "body {color: black;}",
+                    "{body:color=black;}",
+                    "{body;color:black;}",
+                    "body:color=black;"
+                ],
+                "answer": "body {color: black;}"
+            },
+            {
+                "type": "scq",
+                "question": "Where in an HTML document is the correct place to refer to an external style sheet?",
+                "options": [
+                    "In the &lt;head&gt; section",
+                    "At the end of the document",
+                    "In the &lt;body&gt; section",
+                    "After the closing &lt;/html&gt; tag"
+                ],
+                "answer": "In the <head> section"
+            },
+            {
+                "type": "scq",
+                "question": "Which HTML attribute is used to define inline styles?",
+                "options": [
+                    "style",
+                    "font",
+                    "class",
+                    "styles"
+                ],
+                "answer": "style"
+            },
+            {
+                "type": "scq",
+                "question": "Which CSS property is used to change the text color of an element?",
+                "options": [
+                    "color",
+                    "font-color",
+                    "text-color",
+                    "bgcolor"
+                ],
+                "answer": "color"
+            },
+            {
+                "type": "scq",
+                "question": "Which CSS property controls the text size?",
+                "options": [
+                    "font-size",
+                    "text-size",
+                    "font-style",
+                    "text-style"
+                ],
+                "answer": "font-size"
+            },
+            {
+                "type": "scq",
+                "question": "How do you display hyperlinks without an underline?",
+                "options": [
+                    "a {text-decoration: none;}",
+                    "a {underline: none;}",
+                    "a {decoration: no-underline;}",
+                    "a {text-decoration: no-underline;}"
+                ],
+                "answer": "a {text-decoration: none;}"
+            }
+        ]
+    }
+}
